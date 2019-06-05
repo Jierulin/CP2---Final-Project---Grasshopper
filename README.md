@@ -1,7 +1,8 @@
 # CP2---Final-Project---Grasshopper
 
 ## Project Description
-** Pavilion in the Golden Gate Park  **
+**Pavilion in the Golden Gate Park**
+
 The pavilion will be created and designed using Grasshopper in order to achieve parametric forms that are almost impossible to create using only 3D modeling tool. The Pavilion can be used for outdoor activities, such as camping, sitting, picnicking. It creates interesting light and shadow effects and also make outdoor space more inhabitable. 
 ![alt text](https://github.com/Jierulin/CP2---Final-Project---Grasshopper/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20190411170227.jpg?raw=true)
 
